@@ -152,7 +152,10 @@ body{
     max-width: 630px;
     height: auto;
     width: 50%;
-    border-radius: 8px;
+    border-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative;
+    left: 20%;
 }
 .about-text h2{
     font-size: 60px;
